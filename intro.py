@@ -5,7 +5,7 @@ st.title(" Primera app :D ")
 
 st.header( " Esta es mi primera aplicacion con streamlit ")
 
-image = Image.open("paleopapus.jpg")
+image = Image.open("design_.jpg")
 st.image(image, caption = "paleopapus")
 
 texto = st.text_input("Escribe algo", "Este es mi texto")
